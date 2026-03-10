@@ -1,4 +1,4 @@
-FROM honeygain/honeygain:0.8.1
+FROM honeygain/honeygain:0.9.0
 
 ENV email ""
 ENV password ""

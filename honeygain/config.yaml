@@ -1,7 +1,7 @@
 name: "Honeygain"
 slug: "honeygain"
 description: "A passive income app that lets you earn money from your unused internet bandwidth"
-version: "0.8.1"
+version: "0.9.0"
 init: false
 legacy: true
 arch:

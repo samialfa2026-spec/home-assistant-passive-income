@@ -1,7 +1,7 @@
 name: "EarnApp"
 slug: "earnapp"
 description: "Earn passive income while your devices rest"
-version: "1.582.556"
+version: "1.607.304"
 image: madereddy/earnapp
 init: false
 legacy: true

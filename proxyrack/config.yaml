@@ -1,0 +1,15 @@
+name: "Proxyrack"
+slug: "proxyrack"
+description: "Earn Rewards by Sharing Your Bandwidth"
+init: false
+legacy: true
+arch:
+  - amd64
+version: "latest"
+image: proxyrack/pop
+options:
+  UUID: ""
+  API_KEY: ""
+schema:
+  UUID: str
+  API_KEY: str

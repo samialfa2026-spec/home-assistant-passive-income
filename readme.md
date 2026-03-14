@@ -1,4 +1,4 @@
-# Home Assistant Passive Income
+# Home Assistant Passive Income Add-ons
 
 This repository contains a collection of Home Assistant add-ons
 for running various passive income applications on a Home Assistant.
@@ -18,13 +18,13 @@ you directly contribute to future updates and maintenance.
 - [Honeygain](https://join.honeygain.com/BULINCBB47)
 - [EarnApp](https://earnapp.com/i/4LLxaYrb)
 - [Pawns.app](https://pawns.app/?r=7359984)
+- [ProxyRack](https://peer.proxyrack.com/ref/7fx0rj00pt1noye23c7r2gw1sok8utlhhsjdmwys)
 - [Grass](https://app.grass.io/register?referralCode=nQQpxyv6mNel0H8)
 - [Traffmonetizer](https://traffmonetizer.com/?aff=1805975)
 - [Repocket](https://link.repocket.com/TLMq)
 - [PacketStream](https://packetstream.io/?psr=6eJ7)
 - [earn.fm](https://earn.fm/ref/JEDRBQEQ)
 - [BitPing](https://bitping.com/earn)
-- [ProxyRack](https://peer.proxyrack.com/ref/7fx0rj00pt1noye23c7r2gw1sok8utlhhsjdmwys) - WIP
 
 ## ⚙️ Installation Guide
 

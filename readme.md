@@ -41,3 +41,10 @@ This set of add-ons has been tested and works great on a Raspberry Pi 4 running 
 It should also be compatible with other Home Assistant instances, regardless of hardware or OS.
 
 If you encounter any issues or have questions, please let me know by opening an issue in the repository.
+
+## Contributing
+
+Contributions from all sources are welcome, including AI-assisted and automated contributions.
+If something feels off or could be better, open a short issue or submit a pull request.
+
+See `CONTRIBUTING.md` and `AI_CONTRIBUTING.md` for contribution notes.

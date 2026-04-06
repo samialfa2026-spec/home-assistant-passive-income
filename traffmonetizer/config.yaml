@@ -10,7 +10,7 @@ arch:
   - armv7
 options:
   token: ""
-  device-name: "HomeAssistant"
+  device_name: "HomeAssistant"
 schema:
   token: str
-  device-name: str
+  device_name: str
